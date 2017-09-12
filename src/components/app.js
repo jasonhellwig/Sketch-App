@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import SketchPad from "./sketch-pad";
-import SketchNavbar from "./Navbar";
+import SketchNavbar from "./app-navbar";
 import ClassificationResult from "./classification-result"
 
 class App extends Component {
